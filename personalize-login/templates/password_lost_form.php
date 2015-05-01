@@ -26,8 +26,8 @@
 			<input type="text" name="user_login" id="user_login">
 		</p>
 
-		<p class="signup-submit">
-			<input type="submit" name="submit" class="register-button"
+		<p class="lostpassword-submit">
+			<input type="submit" name="submit" class="lostpassword-button"
 			       value="<?php _e( 'Reset Password', 'personalize-login' ); ?>"/>
 		</p>
 	</form>
